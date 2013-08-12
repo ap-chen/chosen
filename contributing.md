@@ -74,7 +74,7 @@ Example:
 
 **Note:** In an effort to keep open issues to a manageable number, we will close any issues
 that do not provide enough information for us to be able to work on a solution.
-You will be encoraged to reopen the after providing the necessary details.
+You will be encoraged to reopen it after providing the necessary details.
 
 <a name="features"></a>
 ## Feature requests
